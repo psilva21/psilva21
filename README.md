@@ -1,16 +1,14 @@
-### Hi there 👋
+# Paulo Silva
 
-<!--
-**psilva21/psilva21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Javascript | Reactjs | Nodejs | Html | css | Redux | NoSQL | Git
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c13b2d?style=plastic&logo=gmail&logoColor=white&color=c13b2d&link=mailTo:paulo2602silva@gmail.com)](paulo2602silva@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0074b0?style=plastic&logo=linkedIn&logoColor=white&color=0074b0)](www.linkedin.com/in/paulo-roberto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+- 💙 - Javascript
+- 📚 - Atualmente estudando nodejs e práticas de engenharia de software
+- 🚀 - Focado no desenvolvimento web/mobile com react e react native
+
+
+ 

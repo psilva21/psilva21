@@ -8,6 +8,9 @@
 
 💡 I'skilled with
 
+<a href="https://reactjs.org/" target="_blank">
+ <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+</a>
 
 
 🤝 let's connect on

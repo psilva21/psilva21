@@ -1,4 +1,17 @@
-# Paulo Silva
+
+<h1 align="center">Hello 👋, I'm Paulo</h1>
+<img src="https://user-images.githubusercontent.com/32932621/124854080-4b2bcd80-df7d-11eb-9a00-39c6613b509c.png" width="200px"/>
+
+
+🚀 What I'm focused ? 
+  * studing to become a fullstack developer
+
+💡 I'skilled with
+
+
+
+🤝 let's connect on
+
 
 Javascript | Reactjs | Nodejs | Html | css | Redux | NoSQL | Git | Typescript
 

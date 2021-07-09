@@ -1,7 +1,7 @@
 <img src="./illustrations/programming.png">
 
 <h1 align="center">Hello 👋, I'm Paulo</h1>
-<h2 align="center">Front-End Developer</h2>
+<p align="center">Front-End Developer</p>
 
 About me
 
@@ -63,8 +63,9 @@ About me
 📊 GitHub stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=psilva21&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=psilva21&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&custom_title=Paulo Silva Github Stats" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=psilva21&layout=compact&theme=dracula" alt="most used languages graph" />
 </a>

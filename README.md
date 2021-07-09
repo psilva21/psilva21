@@ -73,7 +73,7 @@ About me
 
 📥 Contact me
 
-<a href="www.linkedin.com/in/paulo-roberto" target="_blank">
+<a href="https://www.linkedin.com/in/paulo-roberto" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="mailto:paulo2602silva@gmail.com">

@@ -89,31 +89,18 @@ About me
 # icons and illustrations references
 
 <a href="https://icons8.com/icon/NfbyHexzVEDk/reagir">Reagir icon by Icons8</a>
-
 <a href="https://icons8.com/icon/jD-fJzVguBmw/redux">Redux icon by Icons8</a>
-
 <a href="https://icons8.com/icon/uJM6fQYqDaZK/typescript">TypeScript icon by Icons8</a>
-
 <a href="https://icons8.com/icon/FQlr_bFSqEdG/node-js">Node Js icon by Icons8</a>
-
 <a href="https://icons8.com/icon/108784/javascript">Javascript icon by Icons8</a>
-
 <a href="https://icons8.com/icon/74402/mongodb">MongoDB icon by Icons8</a>
-
 <a href="https://icons8.com/icon/84710/bootstrap">Bootstrap icon by Icons8</a>
-
 <a href="https://icons8.com/icon/20906/git">Git icon by Icons8</a>
-
 <a href="https://icons8.com/icon/62452/firebase">Firebase icon by Icons8</a>
-
 <a href="https://icons8.com/icon/13441/python">Python icon by Icons8</a>
-
 <a href="https://icons8.com/icon/39292/jenkins">Jenkins icon by Icons8</a>
-
 <a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>
-
 <a href="https://icons8.com/icon/37246/gmail">Gmail icon by Icons8</a>
-
 <a href="https://icons8.com/icon/2mIgusGquJFz/logo-discord">Logo Discord icon by Icons8</a>
 
 Illustration by <a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
